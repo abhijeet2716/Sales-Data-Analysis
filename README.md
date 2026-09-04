@@ -56,5 +56,4 @@ This project is data analysis project using **Python** & **Pandas**. The goal wa
 
 ---
 
-## 🙌 Acknowledgements
-This is a practice project I did to learn basic **Python** & **Pandas** for Data Analysis!! 🤓🤪💻📊
+
